@@ -71,9 +71,9 @@ I will be more focusing one:
 
 ## Author
 
-- Website - [Add your name here](https://www.digiruth.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/superuser2345)
-- Twitter - [@yourusername](https://www.twitter.com/swayamdutt)
+- Website - [www.digiruth.com](https://www.digiruth.com)
+- Frontend Mentor - [@superuser2345](https://www.frontendmentor.io/profile/superuser2345)
+- Twitter - [@swayamdutt](https://www.twitter.com/swayamdutt)
 
 ## Acknowledgments
 
