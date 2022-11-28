@@ -1,0 +1,15 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+  }
+ 
